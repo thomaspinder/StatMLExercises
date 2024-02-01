@@ -1,0 +1,7 @@
+gpjax
+ipykernel
+matplotlib
+pandas
+scikit-learn
+beartype
+pytest
